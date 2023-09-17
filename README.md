@@ -1,9 +1,10 @@
-# AR Treasure Hunt Game with Unity and Vuforia
+# Campus Of Secrets (with Unity and Vuforia)
 
-Welcome to the AR Treasure Hunt game! This Android-based augmented reality (AR) game is designed to combine the excitement of treasure hunting with the challenges of data structures and algorithms (DSA). Utilizing Unity and the Vuforia engine, this immersive experience allows players to explore the real world while hunting for treasures and answering questions related to DSA.
+Welcome to the Campus Of Secrets! This Android-based augmented reality (AR) game is designed to combine the excitement of treasure hunting with the challenges of data structures and algorithms (DSA). Utilizing Unity and the Vuforia engine, this immersive experience allows players to explore the real world while hunting for treasures and answering questions related to DSA.
 
 ## Table of Contents
 
+- [Demonstration](#demonstration)
 - [Game Overview](#game-overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -12,6 +13,10 @@ Welcome to the AR Treasure Hunt game! This Android-based augmented reality (AR) 
 - [Backend](#backend)
 - [Installation](#installation)
 - [Contributing](#contributing)
+
+## Demonstration
+
+[Demo video showcasing CampusOfSecrets in action.](https://drive.google.com/file/d/181b6PNWHy7uaujSv_hV24av7MpeIHo1l/view?usp=sharing)
 
 ## Game Overview
 
