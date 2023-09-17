@@ -66,7 +66,7 @@ The backend of the AR Treasure Hunt game is built using Node.js and MongoDB. It 
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/ar-treasure-hunt.git
+   git clone https://github.com/sassy-bugs/ar-treasure-hunt.git
    ```
 2. Install Unity and Vuforia and open the project in Unity.
 
