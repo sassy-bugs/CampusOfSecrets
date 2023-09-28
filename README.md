@@ -1,5 +1,8 @@
 # Campus Of Secrets (with Unity and Vuforia)
 
+
+![image](https://github.com/sassy-bugs/CampusOfSecrets/blob/master/COS%20logo.png)
+
 Welcome to the Campus Of Secrets! This Android-based augmented reality (AR) game is designed to combine the excitement of treasure hunting with the challenges of data structures and algorithms (DSA). Utilizing Unity and the Vuforia engine, this immersive experience allows players to explore the real world while hunting for treasures and answering questions related to DSA.
 
 ## Table of Contents
@@ -71,7 +74,7 @@ The backend of the AR Treasure Hunt game is built using Node.js and MongoDB. It 
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/sassy-bugs/ar-treasure-hunt.git
+   git clone https://github.com/sassy-bugs/CampusOfSecrets.git
    ```
 2. Install Unity and Vuforia and open the project in Unity.
 
@@ -82,5 +85,5 @@ The backend of the AR Treasure Hunt game is built using Node.js and MongoDB. It 
 5. Install the APK on your Android device.
 
 ## Contributing
-Contributions to the AR Treasure Hunt game are welcome! Feel free to open issues, suggest features, or make pull requests to help improve the game.
+Contributions to our AR Treasure Hunt game are welcome! Feel free to open issues, suggest features, or make pull requests to help improve the game.
 
